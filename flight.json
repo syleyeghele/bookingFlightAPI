@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "flight to Brazil",
+    "time": "2am",
+    "price": 32000,
+    "date": "26-06-2022"
+  },
+  {
+    "id": 2,
+    "title": "flight to Canada - North America",
+    "time": "2am",
+    "price": 29000,
+    "date": "26-06-2022"
+  },
+  {
+    "id": 3,
+    "title": "flight to Mexico",
+    "time": "2am",
+    "price": 32000,
+    "date": "26-06-2022"
+  },
+  {
+    "id": 4,
+    "title": "flight to Atlanta",
+    "time": "2am",
+    "price": 32000,
+    "date": "26-06-2022"
+  },
+  {
+    "id": 5,
+    "title": "flight to Port Harcourt",
+    "time": "2am",
+    "price": 32000,
+    "date": "26-06-2022"
+  }
+]
