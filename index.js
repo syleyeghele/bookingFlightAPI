@@ -1,6 +1,7 @@
-const { json } = require('body-parser');
 const express = require('express');
 const app = express();
+const models = require("./models/Flight");
+const routes = require("./routes/flightRoute");
 const fs = require('fs');
 
 app.use(express.json());
